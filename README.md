@@ -13,13 +13,12 @@ But I also like frameworks like React.js and Laravel!
 
 <br />
 
-<!-- -->
+<!--
 - 💻 Coding <br /> Most used keywords when coding:
 - JS: `const, let, this, function, console.log(), return, import, export`
 - PHP: `echo, return, function, class, die()`
 - Git: `git commit -m "Initial Commit"`
-<!-- -->
-<br />
+<br /> -->
 
 <!-- Top Technologies -->
 
