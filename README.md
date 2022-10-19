@@ -46,9 +46,9 @@ But I also like frameworks like React.js and Laravel!
 
 <img align="left" width="38px" style="margin-right: .25rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" />
 
-<img align="left" width="40px" style="margin-right: .25rem" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind" />
+<img align="auto" width="40px" style="margin-right: .25rem" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind" />
 
-<img align="left" width="38px" style="margin-right: .25rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
+<img align="auto" width="38px" style="margin-right: .25rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
 
 <img align="left" width="40px" style="margin-right: .25rem" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="React JS" />
 
