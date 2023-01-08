@@ -5,11 +5,11 @@ I like to / mostly work with JavaScript and PHP. <br />
 But I also like frameworks like React.js and Laravel!
 <br />
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/uebfaqe/">@Uebfaqe.com</a>
+- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/benkco/">@Benkco</a>
 - 〰️ I work mostly with JS and PHP.
 - 💭 Learning all about Web Dev!
 - 📫 How to reach me: eneshamzaj328@gmail.com
-- ✅ Need a Web: tung@uebfaqe.com
+- ✅ Hire me: <a href="https://www.linkedin.com/in/enes-hamzaj-633757184?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">LinkedIn</a>
 
 <br />
 
@@ -86,9 +86,9 @@ But I also like frameworks like React.js and Laravel!
 - I like writting JavaScript and PHP.
 - I'm currently working at Uebfaqe.com
 
-#### What is Uebfaqe?
+#### What is Benkco?
 
-Uebfaqe is a Software Company that works on Web development, coding and design.<br />
+Benkco is a Software Company based on Kosovo/Albania that works on Web development, coding and design.<br />
 Including new technologies and frameworks and anything really related to web development world.
 
 </details>
