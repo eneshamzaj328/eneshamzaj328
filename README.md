@@ -1,7 +1,7 @@
 ## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" style="margin-top: -0.599rem;vertical-align: middle; user-select: none" alt="Hi There | Hand Waving Gif">, I'm Enes Hamzaj
 
 I'm Full-Stack Web Developer specialized in mostly JS and PHP.<br />
-I like to / mostly work with JavaScript and PHP. <br />
+I mostly work with: JavaScript and PHP. <br />
 But I also like frameworks like React.js and Laravel!
 <br />
 
@@ -84,7 +84,7 @@ But I also like frameworks like React.js and Laravel!
 
 - I love sharing knowledge and helping others!
 - I like writting JavaScript and PHP.
-- I'm currently working at Uebfaqe.com
+- I'm currently working at Benkco.io
 
 #### What is Benkco?
 
