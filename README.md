@@ -28,6 +28,11 @@ But I also like frameworks like React.js and Laravel!
 
 <img align="left" width="40px" style="margin-right: .25rem" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="React JS" />
 
+<img align="left" width="40px" style="margin-right: .25rem" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next JS" />
+
+<!--<img align="left" width="40px" style="margin-right: .25rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" />-->
+
+
 <img align="left" width="60px" style="margin-right: .25rem" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" />
 
 <img align="left" width="40px" style="margin-right: .25rem" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" />
@@ -51,6 +56,8 @@ But I also like frameworks like React.js and Laravel!
 <img align="left" width="38px" style="margin-right: .25rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
 
 <img align="left" width="40px" style="margin-right: .25rem" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="React JS" />
+
+<img align="left" width="40px" style="margin-right: .25rem" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next JS" />
 
 <img align="left" width="60px" style="margin: 1.3rem .25rem 0 0" src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" />
 
