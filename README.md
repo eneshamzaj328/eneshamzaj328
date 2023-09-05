@@ -5,7 +5,7 @@ I mostly work with: JavaScript and PHP. <br />
 But I also like frameworks like React.js and Laravel!
 <br />
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/benkco/">@Benkco</a>
+- 🔭 I’m currently looking for a Job.
 - 〰️ I work mostly with JS and PHP.
 - 💭 Learning all about Web Dev!
 - 📫 How to reach me: eneshamzaj328@gmail.com
@@ -84,12 +84,13 @@ But I also like frameworks like React.js and Laravel!
 
 - I love sharing knowledge and helping others!
 - I like writting JavaScript and PHP.
-- I'm currently working at Benkco.io
+<!-- - I'm currently -->
 
-#### What is Benkco?
+<!--
+#### What is ?
 
-Benkco is a Software Company based on Kosovo/Albania that works on Web development, coding and design.<br />
-Including new technologies and frameworks and anything really related to web development world.
+ is a Software Company based on Kosovo/Albania that works on Web development, coding and design.<br />
+Including new technologies and frameworks and anything really related to web development world.-->
 
 </details>
 
