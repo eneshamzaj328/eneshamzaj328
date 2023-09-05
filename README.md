@@ -5,7 +5,7 @@ I mostly work with: JavaScript and PHP. <br />
 But I also like frameworks like React.js and Laravel!
 <br />
 
-- 🔭 I’m currently looking for a Job.
+<!-- - 🔭 I’m currently looking for a Job. -->
 - 〰️ I work mostly with JS and PHP.
 - 💭 Learning all about Web Dev!
 - 📫 How to reach me: eneshamzaj328@gmail.com
