@@ -9,7 +9,7 @@ But I also like frameworks like React.js and Laravel!
 - 〰️ I work mostly with JS and PHP.
 - 💭 Learning all about Web Dev!
 - 📫 How to reach me: eneshamzaj328@gmail.com
-- ✅ Hire me: <a href="https://www.linkedin.com/in/enes-hamzaj-633757184?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">LinkedIn</a>
+- ✅ Open to Work / Hire me: [LinkedIn](https://www.linkedin.com/in/enes-hamzaj-633757184?original_referer=https%3A%2F%2Fwww.google.com%2F){:target="_blank"}
 
 <br />
 
@@ -71,7 +71,7 @@ But I also like frameworks like React.js and Laravel!
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eneshamzaj328.eneshamzaj328)
+![Visitors](https://komarev.com/ghpvc/?username=eneshamzaj328)
 
 <!-- Github Stats -->
 
